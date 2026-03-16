@@ -1,0 +1,4 @@
+{
+  "buildCommand": "cd expense-tracker-frontend && npm install && npm run build",
+  "outputDirectory": "expense-tracker-frontend/dist"
+}
